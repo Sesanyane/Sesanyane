@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sesanyane
-- 👀 I’m interested in
-- 🌱 I’m currently learning Computer Systems Engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software developmet and Machine learning
+- 🌱 I’m currently software developer at S&T Recoveries
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
 <!---
